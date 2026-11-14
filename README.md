@@ -19,6 +19,10 @@
 - MakeShapEstimationClassC.ipynb
 содержат построение SHAP value и соответствующих графиков для модели Catboost.
 
+Файл
+- SpatialModelsV1_2_adj.ipynb
+Содержит построение SAR/SEM моделей и оценку устойчивости
+
 Файл с собранным датасетом можно найти по ссылке
 https://disk.yandex.ru/d/e4ISRNTb7u4GHw
 
